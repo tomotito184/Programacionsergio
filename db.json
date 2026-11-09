@@ -1,0 +1,40 @@
+{
+  "comidas": [
+    {
+      "id": 1,
+      "nombre": "Hamburguesa Clásica",
+      "precio": 15000,
+      "imagen": "https://placehold.co/300x200?text=Hamburguesa"
+    },
+    {
+      "id": 2,
+      "nombre": "Perro Caliente",
+      "precio": 10000,
+      "imagen": "https://placehold.co/300x200?text=Perro+Caliente"
+    },
+    {
+      "id": 3,
+      "nombre": "Pizza Personal",
+      "precio": 18000,
+      "imagen": "https://placehold.co/300x200?text=Pizza"
+    },
+    {
+      "id": 4,
+      "nombre": "Papas Fritas",
+      "precio": 8000,
+      "imagen": "https://placehold.co/300x200?text=Papas"
+    },
+    {
+      "id": 5,
+      "nombre": "Gaseosa",
+      "precio": 5000,
+      "imagen": "https://placehold.co/300x200?text=Gaseosa"
+    },
+    {
+      "id": 6,
+      "nombre": "Postre Helado",
+      "precio": 7000,
+      "imagen": "https://placehold.co/300x200?text=Postre"
+    }
+  ]
+}
